@@ -6,7 +6,7 @@ A JavaScript class that allows for a sidebar to follow the user as they scroll d
 This assumes that the side bar is on the right and not on the left.  The code could be adjusted to make it for configurable but for now it is not supported.
 
 ###Demo
-        http://gforti.github.io/stickyscroll/
+http://gforti.github.io/stickyscroll/ 
 
 ###@params scrollerID
 
